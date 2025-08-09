@@ -18,4 +18,4 @@ Theme: NookTheme
 - Youtube - [MASHINIST [YT]](https://www.youtube.com/@MASHINIST_8888)
 
 ## Command:
-- ```bash <(curl -s [https://pterodactyl-installer.se](https://raw.githubusercontent.com/MASHINISTPROJECT/AutoInstall_NookTheme/refs/heads/main/autoinstall_nooktheme.sh))```
+- ```bash <(curl -s https://raw.githubusercontent.com/MASHINISTPROJECT/AutoInstall_NookTheme/refs/heads/main/autoinstall_nooktheme.sh)```
