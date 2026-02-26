@@ -6,7 +6,9 @@
 ![PHP](https://img.shields.io/badge/PHP-3.8-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NookTheme](https://img.shields.io/badge/NookTheme-1.3.2-green?style=for-the-badge&logo=themeforest)
 
-## Warning
+### icons by <a href="https://www.flaticon.com/ru/free-icons/" title="ошибка иконки">Ошибка иконки от Gregor Cresnar - Flaticon</a>
+
+## ![alt text](/img/image-1.png)Warning
 ### The theme may not work on the latest versions of the panel.
 
 ## About
