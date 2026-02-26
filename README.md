@@ -8,7 +8,7 @@
 
 ### icons by <a href="https://www.flaticon.com/ru/free-icons/" title="ошибка иконки">Ошибка иконки от Gregor Cresnar - Flaticon</a>
 
-## <img src="/img/image-1.png" width="30" height="30" alt="Warning"> Warning
+## <img src="/img/warning-icon.svg" width="25" height="25" style="vertical-align: middle;" alt="Warning"> Warning
 ### The theme may not work on the latest versions of the panel.
 
 ## About
