@@ -1,6 +1,10 @@
 <p align="center">
-      <img src="https://i.ibb.co/wZTCSFZQ/pterodactyl-logo.png" width="400">
+      <img src="https://i.ibb.co/wZTCSFZQ/pterodactyl-logo.png" width="250">
 </p>
+
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-1.12.1-blue?style=for-the-badge&logo=docker)
+![PHP](https://img.shields.io/badge/PHP-3.8-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NookTheme](https://img.shields.io/badge/NookTheme-1.3.2-green?style=for-the-badge&logo=themeforest)
 
 ## About
 
